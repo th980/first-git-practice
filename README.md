@@ -1,1 +1,1 @@
-# first-git-pactice
+# first-git-practice
